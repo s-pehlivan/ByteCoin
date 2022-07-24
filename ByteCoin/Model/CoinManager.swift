@@ -16,7 +16,7 @@ struct CoinManager {
     
     let baseURL = "https://rest.coinapi.io/v1/exchangerate/BTC"
     
-    let apiKey = Keys().apiKey // Insert Your OpenWeather API Key.
+    let apiKey = Keys().apiKey // Insert Your coinapi.io API Key.
     
     var selectedCurrency: String = "USD"
         
