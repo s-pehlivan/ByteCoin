@@ -7,7 +7,7 @@
 
 
 ## Technologies Used
-- CoinAPI [You can reach it from here](https://www.coinapi.io/)
+- CoinAPI [You can reach it from here.](https://www.coinapi.io/)
 
 
 ## Features
@@ -20,7 +20,7 @@ To open this project locally, clone the project and open it in Xcode.
 
 
 ## Usage
-- A unique API key is needed to use the project after opening it in Xcode. You can your key [from here](https://www.coinapi.io/)
+- A unique API key is needed to use the project after opening it in Xcode. You can your key [from here.](https://www.coinapi.io/)
 - After acquiring the API key, please add it to the project by setting the _apiKey_ variable's value in the CoingManager file.
 - _Keys_ Swift file is omitted from the project, so you can delete it or create it yourself as well as a class called _Keys_ and add the API key as a property of that class.
 
