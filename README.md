@@ -11,7 +11,7 @@
 
 
 ## Features
-- Choosing a spesific currency from a slider
+- Choosing a specific currency from a slider
 - Calculating the current bitcoin price for the selected currency
 
 
@@ -20,9 +20,9 @@ To open this project locally, clone the project and open it in Xcode.
 
 
 ## Usage
-- To use the project after opening it in Xcode, a unique API key is needed. You can get a key [from here](https://www.coinapi.io/)
-- After acquiring the API key, please add it to the project by setting the _apiKey_ varible's value in the CoingManager file.
-- _Keys_ Swift file is ommited from the project so you can delete it or create it yourself as well as a classs called _Keys_ and add the API key as a property pf that class.
+- A unique API key is needed to use the project after opening it in Xcode. You can your key [from here](https://www.coinapi.io/)
+- After acquiring the API key, please add it to the project by setting the _apiKey_ variable's value in the CoingManager file.
+- _Keys_ Swift file is omitted from the project, so you can delete it or create it yourself as well as a class called _Keys_ and add the API key as a property of that class.
 
 
 ## Project Status
