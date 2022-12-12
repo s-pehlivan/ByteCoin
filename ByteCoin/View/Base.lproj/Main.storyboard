@@ -33,10 +33,10 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="aCZ-gT-r9V" userLabel="CoinView">
-                                        <rect key="frame" x="47" y="85" width="320" height="80"/>
+                                        <rect key="frame" x="47" y="85" width="320.5" height="80"/>
                                         <subviews>
                                             <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="7h4-C0-2Da">
-                                                <rect key="frame" x="0.0" y="0.0" width="310" height="80"/>
+                                                <rect key="frame" x="0.0" y="0.0" width="310.5" height="80"/>
                                                 <subviews>
                                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bitcoinsign.circle" catalog="system" translatesAutoresizingMaskIntoConstraints="NO" id="21L-jV-VCl">
                                                         <rect key="frame" x="0.0" y="0.5" width="80" height="79"/>
@@ -47,13 +47,13 @@
                                                         </constraints>
                                                     </imageView>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="vsX-6c-pSy">
-                                                        <rect key="frame" x="90" y="15" width="159.5" height="50"/>
+                                                        <rect key="frame" x="90" y="15" width="160" height="50"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         <nil key="highlightedColor"/>
                                                     </label>
                                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="USD" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="4iC-oJ-F7T">
-                                                        <rect key="frame" x="259.5" y="25" width="50.5" height="30"/>
+                                                        <rect key="frame" x="260" y="25" width="50.5" height="30"/>
                                                         <fontDescription key="fontDescription" type="system" pointSize="25"/>
                                                         <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                                         <nil key="highlightedColor"/>
