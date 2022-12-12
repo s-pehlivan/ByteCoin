@@ -11,7 +11,7 @@
 
 
 ## Features
-- Choosing a specific currency from a slider
+- Choosing a specific currency from a picker view.
 - Calculating the current bitcoin price for the selected currency
 
 
